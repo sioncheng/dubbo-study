@@ -1,6 +1,6 @@
 package com.github.sioncheng.dubbo.study.basic.spi;
 
-import com.sun.tools.javac.util.ServiceLoader;
+import java.util.ServiceLoader;
 
 public class SayHelloMain {
 
